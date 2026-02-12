@@ -60,5 +60,5 @@ You can reach me at: <br>
 <br /><br />
 
 
-##Other Tools & Platforms:
+###Other Tools & Platforms:
 ServiceNow • SQL Server Reporting Services • Gazebo • PyCharm • EC2 • S3
