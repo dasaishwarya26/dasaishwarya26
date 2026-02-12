@@ -7,7 +7,7 @@ You can reach me at: <br>
 <!-- [![blog badge](https://img.shields.io/badge/portfolio-kroy1809.github.io-1f425f?style=flat-square)](https://kroy1809.github.io/)<br> -->
 
 ### Programming Languages
-[icons here]
+
 <a href="#"><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></a>
 <a href="#"><img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /></a>
 <a href="#"><img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" /></a>
