@@ -1,10 +1,6 @@
 ## Hi there, I'm Aishwarya 👋
 
-<br>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dasaishwarya26&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" height="25" width="160"/> 
-</p>
 
 You can reach me at: <br>
 
