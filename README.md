@@ -6,7 +6,9 @@ You can reach me at: <br>
 
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-dasaishwarya26-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dasaishwarya26/)<br>
+[![blog badge](https://img.shields.io/badge/portfolio-dasaishwarya26.github.io-1f425f?style=flat-square)](https://dasaishwarya26.github.io/)<br>
 <!-- [![blog badge](https://img.shields.io/badge/portfolio-kroy1809.github.io-1f425f?style=flat-square)](https://kroy1809.github.io/)<br> -->
+
 
 ### Programming Languages
 
